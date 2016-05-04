@@ -1,4 +1,4 @@
-from pydsa.sleep_sort import sleep_sort
+from pydsa.sorting.sleep_sort import sleep_sort
 from random import randint
 
 

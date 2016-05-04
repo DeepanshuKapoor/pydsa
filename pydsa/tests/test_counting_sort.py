@@ -1,4 +1,4 @@
-from pydsa.counting_sort import counting_sort
+from pydsa.sorting.counting_sort import counting_sort
 from random import randint
 
 

@@ -1,4 +1,4 @@
-from pydsa.insertion_sort import insertion_sort
+from pydsa.sorting.insertion_sort import insertion_sort
 from random import randint
 
 

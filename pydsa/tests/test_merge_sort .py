@@ -1,4 +1,4 @@
-from pydsa.merge_sort import merge_sort
+from pydsa.sorting.merge_sort import merge_sort
 from random import randint
 
 

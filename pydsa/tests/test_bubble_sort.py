@@ -1,4 +1,4 @@
-from pydsa import bubble_sort
+from pydsa.sorting import bubble_sort
 from random import randint
 
 
